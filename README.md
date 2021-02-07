@@ -18,6 +18,6 @@ In the third section, we used Google Directions API to create a travel itinerary
 
 ![Vacation Route](Vacation_Itinerary/WeatherPy_travel_map.png)
 
-Finally, a marker layer map was created to specifically show information of the 4 cities on the travel route. The pop-up markers provide information on the hotel name, city, country, max temperature and weather description (as show below).
+Finally, a marker layer map was created to specifically show information of the 4 cities on the travel route. The pop-up markers provide information on the hotel name, max temperature and weather description of each city on the route (as show below).
 
 ![Vacation Route Marker Map](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
