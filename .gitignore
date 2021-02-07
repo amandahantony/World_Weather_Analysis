@@ -1,9 +1,15 @@
 config.py
 API_Practice.ipynb
 Google_Nearby_Search.ipynb
+<<<<<<< HEAD
 config4.py
 config3.py
 config2.py
+=======
+config2.py
+config3.py
+config4.py
+>>>>>>> d0dfeafb4ce272f432b3fcade1d6d62e96b4b7f0
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
